@@ -8,7 +8,7 @@ Exercise - Aloha 1
 * Install Visual Studio 2019
 * Install NET Framework 4.5 as minimum
 * Clone SalesForce_Aloha1 git repository
-* Set ConnectionString on 
+* Set ConnectionString on web.config
 * Install SQL Server Express 
 * Clone SalesForce_Aloha1_DB git repository
 * Create a DB 
@@ -17,3 +17,7 @@ Exercise - Aloha 1
 
 ## Running Locally
 Starting page A1.aspx
+
+
+## Test
+To-Do
